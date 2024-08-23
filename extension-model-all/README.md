@@ -9,5 +9,3 @@ Alternatively, you can just include existing subprojects by adding relative path
 ```
 includeBuild '../users'
 ```
-
-To open this project in IDEA find the extension-model-all build.gradle file and open it as project
